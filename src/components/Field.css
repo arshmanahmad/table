@@ -1,0 +1,13 @@
+form{
+    border: 1px solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    background-color: rgb(198, 231, 231);
+    width: 200px;
+    padding: 12px;
+}
+input{
+    border-radius: 2px;
+    border: 1px solid;
+    height: 20px;
+}
